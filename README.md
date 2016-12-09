@@ -33,3 +33,6 @@ XML file that includes energy usage data of the house
 BasicSmartGridGUI.java:
 Basic GUI that parses the XML file to display data to the user
 
+XMLEtreeParse.py:
+Parses through XML file to extract data and compare to the desired consumption and for other uses by the utilities headquarters
+
